@@ -6,7 +6,7 @@ This repository provides an implementation of paper, [Face Tells Detailed Expres
 ## Prerequisites
 - `Python 2.7` (code has been tested with this version)
 - Download [vgg_face_weights](https://drive.google.com/file/d/1OCdnN8NJsLSiDYycZHF3BeL1pvAm8-4V/view?usp=sharing) and put it in the project.
-- Download [stanford-corenlp-3.4.1](https://drive.google.com/file/d/1o64wgzKo6s2cYfpeEHP0bTZbyUkjsJRB/view?usp=sharing) and put it in [here]().
+- Download [pycocoevalcap](https://drive.google.com/file/d/14YW2ViIVgzCoFgK6KgNXFcWNhuFBaCaW/view?usp=sharing) and put it after unzipping to [here](https://github.com/joannahong/Face-Tells-Detailed-Expression/tree/main/utils/coco).
 
 ## Datasets
 - Text-based dataset with comprehensive facial expression sentence is available [here](https://github.com/joannahong/Face-Tells-Detailed-Expression-Dataset).
