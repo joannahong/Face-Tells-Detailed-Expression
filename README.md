@@ -5,6 +5,8 @@ This repository provides an implementation of paper, [Face Tells Detailed Expres
 
 ## Prerequisites
 - `Python 2.7` (code has been tested with this version)
+- Download [vgg_face_weights](https://drive.google.com/file/d/1OCdnN8NJsLSiDYycZHF3BeL1pvAm8-4V/view?usp=sharing) and put it in the project.
+- Download [stanford-corenlp-3.4.1]() and put it in [here]().
 
 ## Datasets
 - Text-based dataset with comprehensive facial expression sentence is available [here](https://github.com/joannahong/Face-Tells-Detailed-Expression-Dataset).
