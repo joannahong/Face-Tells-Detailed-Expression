@@ -9,6 +9,15 @@ This repository provides an implementation of paper, [Face Tells Detailed Expres
 ## Datasets
 - Text-based dataset with comprehensive facial expression sentence is available [here](https://github.com/joannahong/Face-Tells-Detailed-Expression-Dataset).
 - We provide the code that is executable in CK+ dataset.
+- We have cooked the dataset based on the format below. We provide several examples in [here]().
+### CK+ dataset
+```
+data_root 
+├── CK+ (or any other speaker-specific folder)
+|	├── cohn-kanade-images/ (will contain the aligned video image frames)
+|	├── FACS/		(will contain the facial action units info.)
+|	├── Emotion/	(will contain emotion info.) 
+```
 
 ## Citation
 Please cite the following paper if you have use this code:
