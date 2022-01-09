@@ -15,7 +15,7 @@ This repository provides an implementation of paper, [Face Tells Detailed Expres
 ### CK+ dataset
 ```
 data_root 
-├── CK+ (or any other speaker-specific folder)
+├── Dataset/CK+ (or any other speaker-specific folder)
 |	├── cohn-kanade-images/ (will contain the aligned video image frames)
 |	├── FACS/		(will contain the facial action units info.)
 |	├── Emotion/	(will contain emotion info.) 
